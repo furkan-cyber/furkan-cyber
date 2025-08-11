@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Furkan Avcıoğlu!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Yapay+Zeka+Mühendis%C4%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Yapay+Zeka+Uzman%C4%B1" alt="Typing SVG" />
 </div>
 
 ## 🚀 Hakkımda
