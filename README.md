@@ -159,9 +159,7 @@ Merhaba! Ben **Furkan Avcıoğlu**, veri bilimi ve yapay zeka alanında  3 yıld
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkan-cyber&color=blueviolet&style=flat-square&label=Profil+Görüntüleme" alt="Profile Views" />
-</div>
+
 
 <div align="center">
   <h3>💝 Açık kaynak projelere katkıda bulunmayı ve teknoloji topluluğuna değer katmayı seviyorum!</h3>
