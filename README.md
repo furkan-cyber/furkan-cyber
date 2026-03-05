@@ -11,7 +11,7 @@
   <a href="https://tr.linkedin.com/in/furkan-avc%C4%B1o%C4%9Flu-bb6669175">
     <img src="https://img.shields.io/badge/LinkedIn-Furkan%20Avcıoğlu-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:furkanavcioglu11@gmail.com">
+  <a href="mailto:furkan avcioglu11@gmail.com">
     <img src="https://img.shields.io/badge/Email-furkanavcioglu.11%40gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Bursa%2C%20Turkey-green?style=flat&logo=googlemaps" alt="Location"/>
