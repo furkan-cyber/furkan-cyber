@@ -197,10 +197,5 @@ MLOps / DevOps          ████████████████░░�
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkan-cyber&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+>
 
-<p align="center">
-  <i>💡 "Veriden anlam çıkarmak, geleceği şekillendirmektir."</i>
-</p>
